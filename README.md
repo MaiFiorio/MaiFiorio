@@ -15,6 +15,19 @@
  </a>
 </p>
 
+📊Científica de Datos con formación universitaria en Ciencias Económicas y experiencia en análisis impositivo y financiero
+
+👩‍💻Durante mis estudios en Henry, como Científica de datos, he potenciado mi capacidad para transformar datos en información estratégica. 
+Perfeccionándome en:
+✔️ Desarrollo de procesos ETL con Python en Pandas y NumPy.
+✔️ Aplicación de técnicas de análisis exploratorio y estadístico para descubrir insights. 
+✔️ Análsis exploratorio de datos y creación de visualizaciones relevantes en Matplotlib y Seaborn. 
+✔️ Diferentes modelos Machine Learning, supervisado & no supervisado.
+✔️ Desarrollo e implementación de soluciones de Business Intelligence en Power BI (dashboards interactivos, KPIs). 
+✔️ Dominio de SQL Server para la gestión y consulta de bases de datos relacionales. 
+✔️ Desarrollo de proyectos con aplicación de metodología SCRUM, flujos de trabajo y estructura de datos. 
+
+
 ## 💻 Stack Tecnológico:</h1>
 
 <h1 align="center"> 
